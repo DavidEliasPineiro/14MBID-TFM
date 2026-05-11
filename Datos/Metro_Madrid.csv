@@ -1,0 +1,238 @@
+﻿X,Y,OBJECTID,OID_,Estación,Metro,Líneas
+-3.709422222,40.41809167,1,0,Ópera,Metro de Madrid,L0 - L2 - L5
+-3.718674052,40.42138187,2,0,Príncipe Pío,Metro de Madrid,L0 - L6 - L10
+-3.667139917,40.48028303,3,0,Pinar de Chamartín,Metro de Madrid,L1 - L4
+-3.676641667,40.47555833,4,0,Bambú,Metro de Madrid,L1
+-3.68355925,40.47360087,5,0,Chamartín,Metro de Madrid,L1 - L10
+-3.689683013,40.46613219,6,0,Plaza de Castilla,Metro de Madrid,L1 - L9 - L10
+-3.695058333,40.46441944,7,0,Valdeacederas,Metro de Madrid,L1
+-3.69825,40.46055556,8,0,Tetuán,Metro de Madrid,L1
+-3.703022222,40.45428611,9,0,Estrecho,Metro de Madrid,L1
+-3.703311111,40.45033611,10,0,Alvarado,Metro de Madrid,L1
+-3.703959587,40.44685071,11,0,Cuatro Caminos,Metro de Madrid,L1 - L2 - L6
+-3.701583333,40.44192222,12,0,Ríos Rosas,Metro de Madrid,L1
+-3.698681759,40.4350032,13,0,Iglesia,Metro de Madrid,L1
+-3.702113747,40.42890788,14,0,Bilbao,Metro de Madrid,L1 - L4
+-3.701249735,40.42626122,15,0,Tribunal,Metro de Madrid,L1 - L10
+-3.70168045,40.41999494,16,0,Gran Vía,Metro de Madrid,L1 - L5
+-3.703578167,40.41688313,17,0,Sol,Metro de Madrid,L1 - L2 - L3
+-3.704644386,40.41247212,18,0,Tirso de Molina,Metro de Madrid,L1
+-3.699396042,40.41234271,19,0,Antón Martín,Metro de Madrid,L1
+-3.692142158,40.40918662,20,0,Atocha,Metro de Madrid,L1
+-3.688673981,40.40701771,21,0,Atocha Renfe,Metro de Madrid,L1
+-3.681116864,40.4042944,22,0,Menéndez Pelayo,Metro de Madrid,L1
+-3.6748505,40.4012144,23,0,Pacífico,Metro de Madrid,L1 - L6
+-3.669055556,40.39819722,24,0,Puente de Vallecas,Metro de Madrid,L1
+-3.664138889,40.39553889,25,0,Nueva Numancia,Metro de Madrid,L1
+-3.658680556,40.39266111,26,0,Portazgo,Metro de Madrid,L1
+-3.653908333,40.39156389,27,0,Buenos Aires,Metro de Madrid,L1
+-3.645219444,40.389775,28,0,Alto del Arenal,Metro de Madrid,L1
+-3.639505556,40.38731667,29,0,Miguel Hernández,Metro de Madrid,L1
+-3.624719444,40.38216389,30,0,Sierra de Guadalupe,Metro de Madrid,L1
+-3.621302778,40.37959722,31,0,Villa de Vallecas,Metro de Madrid,L1
+-3.618844444,40.37238333,32,0,Congosto,Metro de Madrid,L1
+-3.613466667,40.37018889,33,0,La Gavia,Metro de Madrid,L1
+-3.599233897,40.36357851,34,0,Las Suertes,Metro de Madrid,L1
+-3.591628133,40.3598401,35,0,Valdecarros,Metro de Madrid,L1
+-3.600969843,40.42282145,36,0,Las Rosas,Metro de Madrid,L2
+-3.611669444,40.42255,37,0,Avenida de Guadalajara,Metro de Madrid,L2
+-3.623826268,40.41813341,38,0,Alsacia,Metro de Madrid,L2
+-3.642258333,40.42513889,39,0,La Almudena,Metro de Madrid,L2
+-3.650444404,40.42720126,40,0,La Elipa,Metro de Madrid,L2
+-3.662586267,40.43098208,41,0,Ventas,Metro de Madrid,L2 - L5
+-3.668805624,40.42808125,42,0,Manuel Becerra,Metro de Madrid,L2 - L6
+-3.675884839,40.42477213,43,0,Goya,Metro de Madrid,L2 - L4
+-3.68030246,40.42266706,44,0,Príncipe de Vergara,Metro de Madrid,L2 - L9
+-3.68625,40.42030278,45,0,Retiro,Metro de Madrid,L2
+-3.694958333,40.419225,46,0,Banco de España,Metro de Madrid,L2
+-3.69925,40.41805278,47,0,Sevilla,Metro de Madrid,L2
+-3.707958333,40.42131667,48,0,Santo Domingo,Metro de Madrid,L2
+-3.707419444,40.42484167,49,0,Noviciado,Metro de Madrid,L2
+-3.705724737,40.42965107,50,0,San Bernardo,Metro de Madrid,L2 - L4
+-3.704336111,40.43321944,51,0,Quevedo,Metro de Madrid,L2
+-3.704280061,40.4386776,52,0,Canal,Metro de Madrid,L2 - L7
+-3.709852778,40.31862778,53,0,El Casar,Metro de Madrid,L3 - L12
+-3.713506567,40.3412249,54,0,Villaverde Alto,Metro de Madrid,L3
+-3.693186111,40.34153889,55,0,San Cristóbal,Metro de Madrid,L3
+-3.692647222,40.35089444,56,0,Villaverde Bajo-Cruce,Metro de Madrid,L3
+-3.693630556,40.35958056,57,0,Ciudad de los Ángeles,Metro de Madrid,L3
+-3.694172222,40.36999444,58,0,San Fermín-Orcasur,Metro de Madrid,L3
+-3.69585,40.37503056,59,0,Hospital 12 de Octubre,Metro de Madrid,L3
+-3.697969444,40.38407222,60,0,Almendrales,Metro de Madrid,L3
+-3.69557022,40.39096668,61,0,Legazpi,Metro de Madrid,L3 - L6
+-3.694194548,40.39990278,62,0,Delicias,Metro de Madrid,L3
+-3.694227778,40.403075,63,0,Palos de la Frontera,Metro de Madrid,L3
+-3.702298223,40.40503763,64,0,Embajadores,Metro de Madrid,L3
+-3.700905556,40.40851389,65,0,Lavapiés,Metro de Madrid,L3
+-3.706089584,40.42020201,66,0,Callao,Metro de Madrid,L3 - L5
+-3.711073075,40.42334558,67,0,Plaza de España,Metro de Madrid,L3 - L10
+-3.713116682,40.42717429,68,0,Ventura Rodríguez,Metro de Madrid,L3
+-3.716419274,40.43087445,69,0,Argüelles,Metro de Madrid,L3 - L4 - L6
+-3.719600162,40.43498248,70,0,Moncloa,Metro de Madrid,L3 - L6
+-3.6629,40.47687222,71,0,Manoteras,Metro de Madrid,L4
+-3.652575,40.475375,72,0,Hortaleza,Metro de Madrid,L4
+-3.645238889,40.47711667,73,0,Parque de Santa María,Metro de Madrid,L4
+-3.639575,40.47447222,74,0,San Lorenzo,Metro de Madrid,L4
+-3.638601946,40.46987856,75,0,Mar de Cristal,Metro de Madrid,L4 - L8
+-3.635410443,40.46382941,76,0,Canillas,Metro de Madrid,L4
+-3.645848128,40.45906051,77,0,Esperanza,Metro de Madrid,L4
+-3.656247357,40.45592597,78,0,Arturo Soria,Metro de Madrid,L4
+-3.661121361,40.45346001,79,0,Avenida de La Paz,Metro de Madrid,L4
+-3.667954537,40.44830573,80,0,Alfonso XIII,Metro de Madrid,L4
+-3.674511959,40.44390513,81,0,Prosperidad,Metro de Madrid,L4
+-3.678574091,40.43788584,82,0,Avenida de América,Metro de Madrid,L4 - L6 - L7 - L9
+-3.673812425,40.43313963,83,0,Diego de León,Metro de Madrid,L4 - L5 - L6
+-3.675408333,40.42916944,84,0,Lista,Metro de Madrid,L4
+-3.682913889,40.42503333,85,0,Velázquez,Metro de Madrid,L4
+-3.686630556,40.42543333,86,0,Serrano,Metro de Madrid,L4
+-3.691002778,40.42541944,87,0,Colón,Metro de Madrid,L4
+-3.696428804,40.42779912,88,0,Alonso Martínez,Metro de Madrid,L4 - L5 - L10
+-3.587319854,40.45801122,89,0,Alameda de Osuna,Metro de Madrid,L5
+-3.594008333,40.45347222,90,0,El Capricho,Metro de Madrid,L5
+-3.608158333,40.449425,91,0,Canillejas,Metro de Madrid,L5
+-3.616997222,40.44374722,92,0,Torre Arias,Metro de Madrid,L5
+-3.626841667,40.44084444,93,0,Suanzes,Metro de Madrid,L5
+-3.638158333,40.43804722,94,0,Ciudad Lineal,Metro de Madrid,L5
+-3.644162535,40.43499027,95,0,Pueblo Nuevo,Metro de Madrid,L5 - L7
+-3.647285098,40.43347996,96,0,Quintana,Metro de Madrid,L5
+-3.657577778,40.43189167,97,0,El Carmen,Metro de Madrid,L5
+-3.689538889,40.43315833,98,0,Rubén Darío,Metro de Madrid,L5
+-3.697613889,40.42292778,99,0,Chueca,Metro de Madrid,L5
+-3.708161111,40.41127778,100,0,La Latina,Metro de Madrid,L5
+-3.71105,40.40703611,101,0,Puerta de Toledo,Metro de Madrid,L5
+-3.706030518,40.40405625,102,0,Acacias,Metro de Madrid,L5
+-3.711216043,40.40240981,103,0,Pirámides,Metro de Madrid,L5
+-3.716222972,40.39755697,104,0,Marqués de Vadillo,Metro de Madrid,L5
+-3.723611111,40.39335556,105,0,Urgel,Metro de Madrid,L5
+-3.731835611,40.38855634,106,0,Oporto,Metro de Madrid,L5 - L6
+-3.739822222,40.38884722,107,0,Vista Alegre,Metro de Madrid,L5
+-3.744876242,40.38782511,108,0,Carabanchel,Metro de Madrid,L5
+-3.751211111,40.38438333,109,0,Eugenia de Montijo,Metro de Madrid,L5
+-3.760802978,40.38562756,110,0,Aluche,Metro de Madrid,L5
+-3.765347222,40.39057222,111,0,Empalme,Metro de Madrid,L5
+-3.768129213,40.39480556,112,0,Campamento,Metro de Madrid,L5
+-3.761726928,40.40297645,113,0,Casa de Campo,Metro de Madrid,L5 - L10
+-3.726388754,40.4433868,114,0,Ciudad Universitaria,Metro de Madrid,L6
+-3.719425,40.44643333,115,0,Vicente Aleixandre,Metro de Madrid,L6
+-3.71379877,40.44592132,116,0,Guzmán el Bueno,Metro de Madrid,L6 - L7
+-3.691277984,40.44608834,117,0,Nuevos Ministerios,Metro de Madrid,L6 - L8 - L10
+-3.685209993,40.44489293,118,0,República Argentina,Metro de Madrid,L6
+-3.668849772,40.42291588,119,0,O´Donnell,Metro de Madrid,L6
+-3.669580756,40.4144075,120,0,Sáinz de Baranda,Metro de Madrid,L6 - L9
+-3.670200816,40.40692979,121,0,Conde de Casal,Metro de Madrid,L6
+-3.678115695,40.39614279,122,0,Méndez Álvaro,Metro de Madrid,L6
+-3.688636111,40.39310278,123,0,Arganzuela-Planetario,Metro de Madrid,L6
+-3.706897222,40.38709722,124,0,Usera,Metro de Madrid,L6
+-3.723127778,40.38690556,125,0,Opañel,Metro de Madrid,L6
+-3.740734906,40.39290588,126,0,Carpetana,Metro de Madrid,L6
+-3.744269444,40.39917729,127,0,Laguna,Metro de Madrid,L6
+-3.745336111,40.40509722,128,0,Lucero,Metro de Madrid,L6
+-3.738930556,40.40992222,129,0,Alto de Extremadura,Metro de Madrid,L6
+-3.727236111,40.41389722,130,0,Puerta del Ángel,Metro de Madrid,L6
+-3.725113392,40.4955208,131,0,Pitis,Metro de Madrid,L7
+-3.726030556,40.49092222,132,0,Arroyofresno,Metro de Madrid,L7
+-3.723044444,40.48501667,133,0,Lacoma,Metro de Madrid,L7
+-3.718402778,40.48009722,134,0,Avenida de la Ilustración,Metro de Madrid,L7
+-3.715930201,40.4758981,135,0,Peñagrande,Metro de Madrid,L7
+-3.717756659,40.47026527,136,0,Antonio Machado,Metro de Madrid,L7
+-3.715998489,40.46480495,137,0,Valdezarza,Metro de Madrid,L7
+-3.712259252,40.45641414,138,0,Francos Rodríguez,Metro de Madrid,L7
+-3.713733333,40.43906389,139,0,Islas Filipinas,Metro de Madrid,L7
+-3.699247681,40.43843747,140,0,Alonso Cano,Metro de Madrid,L7
+-3.69123218,40.43806652,141,0,Gregorio Marañón,Metro de Madrid,L7 - L10
+-3.67213094,40.43939016,142,0,Cartagena,Metro de Madrid,L7
+-3.66333869,40.43907291,143,0,Parque de las Avenidas,Metro de Madrid,L7
+-3.652480448,40.43963018,144,0,Barrio de la Concepción,Metro de Madrid,L7
+-3.640521604,40.43037999,145,0,Ascao,Metro de Madrid,L7
+-3.633302778,40.428425,146,0,García Noblejas,Metro de Madrid,L7
+-3.625719444,40.42799167,147,0,Simancas,Metro de Madrid,L7
+-3.615463889,40.42799038,148,0,San Blas,Metro de Madrid,L7
+-3.601822113,40.43337131,149,0,Estadio Metropolitano,Metro de Madrid,L7
+-3.607880556,40.43298333,150,0,Las Musas,Metro de Madrid,L7
+-3.569069977,40.42278122,151,0,Barrio del Puerto,Metro de Madrid,L7
+-3.561188889,40.42373333,152,0,Coslada Central,Metro de Madrid,L7
+-3.548027988,40.42501285,153,0,La Rambla,Metro de Madrid,L7
+-3.535326046,40.42409751,154,0,San Fernando,Metro de Madrid,L7
+-3.52526793,40.42298832,155,0,Jarama,Metro de Madrid,L7
+-3.527095176,40.41764146,156,0,Henares,Metro de Madrid,L7
+-3.535210835,40.41770586,157,0,Hospital del Henares,Metro de Madrid,L7
+-3.593304509,40.49258687,158,0,Aeropuerto T-4,Metro de Madrid,L8
+-3.582583333,40.4758,159,0,Barajas,Metro de Madrid,L8
+-3.571711231,40.46855085,160,0,Aeropuerto T1-T2-T3,Metro de Madrid,L8
+-3.616202778,40.46389444,161,0,Feria de Madrid,Metro de Madrid,L8
+-3.653770851,40.46657648,162,0,Pinar del Rey,Metro de Madrid,L8
+-3.676966315,40.45712005,163,0,Colombia,Metro de Madrid,L8 - L9
+-3.709117274,40.49922692,164,0,Paco de Lucía,Metro de Madrid,L9
+-3.716891736,40.49043263,165,0,Mirasierra,Metro de Madrid,L9
+-3.707516667,40.48466111,166,0,Herrera Oria,Metro de Madrid,L9
+-3.703163889,40.47688611,167,0,Barrio del Pilar,Metro de Madrid,L9
+-3.695779401,40.46958789,168,0,Ventilla,Metro de Madrid,L9
+-3.679169444,40.46762222,169,0,Duque de Pastrana,Metro de Madrid,L9
+-3.675794444,40.46300556,170,0,Pío XII,Metro de Madrid,L9
+-3.677377778,40.45144722,171,0,Concha Espina,Metro de Madrid,L9
+-3.678404889,40.44427541,172,0,Cruz del Rayo,Metro de Madrid,L9
+-3.679530302,40.43263371,173,0,Núñez de Balboa,Metro de Madrid,L5 - L9
+-3.678580556,40.41839167,174,0,Ibiza,Metro de Madrid,L9
+-3.661783333,40.41147222,175,0,Estrella,Metro de Madrid,L9
+-3.652733333,40.41024444,176,0,Vinateros,Metro de Madrid,L9
+-3.641808333,40.405225,177,0,Artilleros,Metro de Madrid,L9
+-3.635116667,40.40051389,178,0,Pavones,Metro de Madrid,L9
+-3.621561111,40.40004722,179,0,Valdebernardo,Metro de Madrid,L9
+-3.608861111,40.40421389,180,0,Vicálvaro,Metro de Madrid,L9
+-3.602397222,40.40381111,181,0,San Cipriano,Metro de Madrid,L9
+-3.595977778,40.40131667,182,0,Puerta de Arganda,Metro de Madrid,L9
+-3.611455556,40.55976667,188,0,Hospital Infanta Sofía,Metro de Madrid,L10
+-3.623396149,40.55038116,189,0,Reyes Católicos,Metro de Madrid,L10
+-3.635125,40.554425,190,0,Baunatal,Metro de Madrid,L10
+-3.646875,40.55048333,191,0,Manuel de Falla,Metro de Madrid,L10
+-3.637383333,40.54102222,192,0,Marqués de la Valdavia,Metro de Madrid,L10
+-3.635563889,40.53195,193,0,La Moraleja,Metro de Madrid,L10
+-3.658594444,40.5276,194,0,La Granja,Metro de Madrid,L10
+-3.662769444,40.51553611,195,0,Ronda de la Comunicación,Metro de Madrid,L10
+-3.669845773,40.50868079,196,0,Las Tablas,Metro de Madrid,L10
+-3.695141909,40.50568731,197,0,Montecarmelo,Metro de Madrid,L10
+-3.695359142,40.50120118,198,0,Tres Olivos,Metro de Madrid,L10
+-3.6922378,40.49514492,199,0,Fuencarral,Metro de Madrid,L10
+-3.684892417,40.48075607,200,0,Begoña,Metro de Madrid,L10
+-3.689855556,40.45842778,201,0,Cuzco,Metro de Madrid,L10
+-3.690743039,40.45161054,202,0,Santiago Bernabéu,Metro de Madrid,L10
+-3.734869444,40.41666111,203,0,Lago,Metro de Madrid,L10
+-3.75297945,40.40792091,204,0,Batán,Metro de Madrid,L10
+-3.774611111,40.39698056,205,0,Colonia Jardín,Metro de Madrid,L10
+-3.792506017,40.37742874,206,0,Cuatro Vientos,Metro de Madrid,L10
+-3.807197222,40.34984722,207,0,Joaquín Vilumbrales,Metro de Madrid,L10
+-3.812111111,40.34524444,208,0,Puerta del Sur,Metro de Madrid,L10 - L12
+-3.778156644,40.35811025,209,0,La Fortuna,Metro de Madrid,L11
+-3.756899935,40.36422312,210,0,La Peseta,Metro de Madrid,L11
+-3.751910035,40.37197476,211,0,Carabanchel Alto,Metro de Madrid,L11
+-3.7391,40.3736,212,0,San Francisco,Metro de Madrid,L11
+-3.734166667,40.37586667,213,0,Pan Bendito,Metro de Madrid,L11
+-3.727905845,40.38083267,214,0,Abrantes,Metro de Madrid,L11
+-3.717431996,40.38525798,215,0,Plaza Elíptica,Metro de Madrid,L11 - L6
+-3.821194444,40.34968611,216,0,Parque de Lisboa,Metro de Madrid,L12
+-3.831775,40.35008611,217,0,Alcorcón Central,Metro de Madrid,L12
+-3.849336111,40.34589722,218,0,Parque Oeste,Metro de Madrid,L12
+-3.872183333,40.33511944,219,0,Universidad Rey Juan Carlos,Metro de Madrid,L12
+-3.863538889,40.32850278,220,0,Móstoles Central,Metro de Madrid,L12
+-3.864888889,40.32168056,221,0,Pradillo,Metro de Madrid,L12
+-3.874405303,40.31634029,222,0,Hospital de Móstoles,Metro de Madrid,L12
+-3.864022222,40.30902778,223,0,Manuela Malasaña,Metro de Madrid,L12
+-3.837686111,40.29681111,224,0,Loranca,Metro de Madrid,L12
+-3.816422222,40.28575556,225,0,Hospital de Fuenlabrada,Metro de Madrid,L12
+-3.806322222,40.285175,226,0,Parque Europa,Metro de Madrid,L12
+-3.798902778,40.28267778,227,0,Fuenlabrada Central,Metro de Madrid,L12
+-3.786977778,40.28683889,228,0,Parque de los Estados,Metro de Madrid,L12
+-3.756822222,40.28874167,229,0,Arroyo Culebro,Metro de Madrid,L12
+-3.74576686,40.29324669,230,0,Conservatorio,Metro de Madrid,L12
+-3.736636111,40.30081111,231,0,Alonso de Mendoza,Metro de Madrid,L12
+-3.734027778,40.30992778,232,0,Getafe Central,Metro de Madrid,L12
+-3.722244444,40.31180278,233,0,Juan de la Cierva,Metro de Madrid,L12
+-3.7182,40.324225,234,0,Los Espartales,Metro de Madrid,L12
+-3.729633333,40.32907222,235,0,El Bercial,Metro de Madrid,L12
+-3.740180556,40.33663611,236,0,El Carrascal,Metro de Madrid,L12
+-3.752663889,40.33474444,237,0,Julián Besteiro,Metro de Madrid,L12
+-3.759422222,40.32660278,238,0,Casa del Reloj,Metro de Madrid,L12
+-3.767972222,40.32176944,239,0,Hospital Severo Ochoa,Metro de Madrid,L12
+-3.771538889,40.32898056,240,0,Leganés Central,Metro de Madrid,L12
+-3.775869444,40.33615833,241,0,San Nicasio,Metro de Madrid,L12
+-3.78398,40.38373,242,0,Aviación Española,Metro de Madrid,L10
